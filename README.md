@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**nikitavoryet/nikitavoryet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![me github stats](https://github-readme-stats.vercel.app/api?username=nikitavoryet&show_icons=true&theme=dracula&hide=stars,issues)
 
-Here are some ideas to get you started:
+- 💬 Ask me about JS/GO
+- 🌱 I’m currently learning GO/React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Donate:
+
+    BTC:  192TC7d7ZRYJQbQnAWvMpkccnBNQN1ae6R
+    ETH:  0x7d1082d952f4d584ae2910e14018f4dce7495c74
+    LTC:  MLx6wmFjXfBTKj6JfB5NXaiKjNLeEntRoZ
+    DOGE: DHCjW71EWBzvv43XPXVJc491brcBJXXq88
+author: 
+    
+    Name:          Nikita
+    Company:       SmartWorld
+    Position:      TeamLead
+    Mail:          n.vtorushin@inbox.ru
+    TG:            @nikitavoryet
+    Year of birth: 1999
+    FullStack:     JS/GO
+    
