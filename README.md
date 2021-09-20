@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me github stats](https://github-readme-stats.vercel.app/api?username=nikitavoryet&show_icons=true&theme=dracula&hide=stars,issues)
+![me github stats](https://github-readme-stats.vercel.app/api?username=nikitavoryet&show_icons=true&theme=dracula)
 
 - 💬 Ask me about JS/GO
 - 🌱 I’m currently learning GO/React Native
