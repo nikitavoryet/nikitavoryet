@@ -8,10 +8,8 @@
 author: 
     
     Name:          Nikita
-    Company:       OG1
+    About me:      vns.guru
     Position:      Lead
     Mail:          n.vtorushin@inbox.ru
     TG:            @nvtorushin
-    Year of birth: 1999
-    FullStack:     JS/GO
     
